@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Equipament UdG</name>
+        <order/>
+        <roles>x_udg_equipament_u.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>adminsanti</sys_created_by>
+        <sys_created_on>2016-12-23 22:22:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>640ab27a377f2a001acdf01643990e2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipament UdG</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
+        <sys_update_name>sys_ui_application_640ab27a377f2a001acdf01643990e2f</sys_update_name>
+        <sys_updated_by>adminsanti</sys_updated_by>
+        <sys_updated_on>2016-12-23 22:22:58</sys_updated_on>
+    </sys_ui_application>
+</record_update>

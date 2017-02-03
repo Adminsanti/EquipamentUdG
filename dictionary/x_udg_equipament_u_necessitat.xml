@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Necessitat" max_length="40" name="x_udg_equipament_u_necessitat" type="collection">
+        <element label="Coberta per" max_length="32" name="coberta_per" reference="alm_asset" type="reference"/>
+        <element label="Justificacio" max_length="300" name="justificacio" type="string"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element choice="3" default="Proveint" label="Tipus necessitat" mandatory="true" max_length="40" name="tipus" type="string">
+            <choice>
+                <element label="Proveint" sequence="0" value="Proveint"/>
+                <element label="Consolidada" sequence="1" value="Consolidada"/>
+                <element label="Temporal" sequence="2" value="Temporal"/>
+                <element label="Investigant" sequence="3" value="Investigant"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Ordinador sobretaula" label="Tipus recurs" max_length="40" name="u_string_1" type="string">
+            <choice>
+                <element label="Ordinador sobretaula" sequence="0" value="Ordinador sobretaula"/>
+                <element label="Ordinador portàtil estàndard" sequence="1" value="Ordinador portàtil estàndard"/>
+                <element label="Ordinador portàtil ultralleuger" sequence="2" value="Ordinador portàtil ultralleuger"/>
+                <element label="Ordinador altes prestacions" sequence="3" value="Ordinador altes prestacions"/>
+            </choice>
+        </element>
+        <element label="Vinculacio" max_length="32" name="vinculacio" reference="u_udgvinculacions" type="reference"/>
+        <element label="Work Notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <index name="index">
+            <element name="coberta_per"/>
+        </index>
+        <index name="index2">
+            <element name="vinculacio"/>
+        </index>
+        <index name="index3">
+            <element name="order"/>
+        </index>
+    </element>
+</database>

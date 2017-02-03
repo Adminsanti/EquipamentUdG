@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="tipus" table="x_udg_equipament_u_necessitat" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Proveint</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>0</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-01-18 08:48:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d093907db9876409fd1f57eaf961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-18 08:48:54</sys_updated_on>
+            <value>Proveint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Si</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>0</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 22:52:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fec0cffa377f2a001acdf01643990e2f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-11 10:09:37</sys_updated_on>
+            <value>Si</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consolidada</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>1</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 22:56:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cac1473e377f2a001acdf01643990e42</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-18 08:48:54</sys_updated_on>
+            <value>Consolidada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>1</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 22:52:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfc0cffa377f2a001acdf01643990e33</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-11 10:09:37</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Ordinador sobretaula</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>2</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 22:18:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57e8723a377f2a001acdf01643990e12</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-11 10:09:57</sys_updated_on>
+            <value>Ordinador sobretaula</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Temporal</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>2</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 23:00:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88b2cb3e377f2a001acdf01643990e23</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-11 10:09:57</sys_updated_on>
+            <value>Temporal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>tipus</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Investigant</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence>3</sequence>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 22:52:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3c0cffa377f2a001acdf01643990e3c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-18 08:48:54</sys_updated_on>
+            <value>Investigant</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>tipus</element>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2016-12-23 22:18:14</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1be8723a377f2a001acdf01643990e12</sys_id>
+            <sys_mod_count>9</sys_mod_count>
+            <sys_name>tipus</sys_name>
+            <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
+            <sys_update_name>sys_choice_x_udg_equipament_u_necessitat_tipus</sys_update_name>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-01-18 08:48:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
