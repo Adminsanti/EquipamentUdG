@@ -35,7 +35,7 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>adminsanti</sys_created_by>
             <sys_created_on>2016-12-23 12:50:43</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f907fcf237fb2a001acdf01643990e0b</sys_id>

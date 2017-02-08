@@ -4,47 +4,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>source_field</element>
-            <list_id display_value="sys_transform_entry" element="NULL" name="sys_transform_entry" parent="sys_transform_map" relationship="NULL" sys_domain="global" view="Default view">85456f4737022200e7efd3e853990e35</list_id>
+            <list_id display_value="sys_transform_entry" element="NULL" name="sys_transform_entry" parent="sys_transform_map" relationship="NULL" sys_domain="global" view="Default view">4d6f3cdc0f303200985545ace1050e9a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-28 20:20:35</sys_created_on>
-            <sys_id>c9456f4737022200e7efd3e853990e35</sys_id>
+            <sys_created_on>2017-02-03 12:05:13</sys_created_on>
+            <sys_id>cd6f3cdc0f303200985545ace1050e9a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-28 20:20:35</sys_updated_on>
+            <sys_updated_on>2017-02-03 12:05:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>target_field</element>
-            <list_id display_value="sys_transform_entry" element="NULL" name="sys_transform_entry" parent="sys_transform_map" relationship="NULL" sys_domain="global" view="Default view">85456f4737022200e7efd3e853990e35</list_id>
+            <list_id display_value="sys_transform_entry" element="NULL" name="sys_transform_entry" parent="sys_transform_map" relationship="NULL" sys_domain="global" view="Default view">4d6f3cdc0f303200985545ace1050e9a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-28 20:20:35</sys_created_on>
-            <sys_id>4d456f4737022200e7efd3e853990e35</sys_id>
+            <sys_created_on>2017-02-03 12:05:13</sys_created_on>
+            <sys_id>416f3cdc0f303200985545ace1050e9b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-28 20:20:35</sys_updated_on>
+            <sys_updated_on>2017-02-03 12:05:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>coalesce</element>
-            <list_id display_value="sys_transform_entry" element="NULL" name="sys_transform_entry" parent="sys_transform_map" relationship="NULL" sys_domain="global" view="Default view">85456f4737022200e7efd3e853990e35</list_id>
+            <list_id display_value="sys_transform_entry" element="NULL" name="sys_transform_entry" parent="sys_transform_map" relationship="NULL" sys_domain="global" view="Default view">4d6f3cdc0f303200985545ace1050e9a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>system</sys_created_by>
-            <sys_created_on>2016-09-28 20:20:35</sys_created_on>
-            <sys_id>cd456f4737022200e7efd3e853990e35</sys_id>
+            <sys_created_on>2017-02-03 12:05:13</sys_created_on>
+            <sys_id>c16f3cdc0f303200985545ace1050e9b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>system</sys_updated_by>
-            <sys_updated_on>2016-09-28 20:20:35</sys_updated_on>
+            <sys_updated_on>2017-02-03 12:05:13</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -59,7 +59,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-12-23 16:11:15</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>2fe4653edb3baa009fd1f57eaf9619e2</sys_id>

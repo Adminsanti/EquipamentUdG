@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>u3000070</sys_created_by>
         <sys_created_on>2017-01-18 10:33:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>21f0d60fdb9876409fd1f57eaf9619d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Asset1</sys_name>

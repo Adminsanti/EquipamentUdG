@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2016-12-23 12:24:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>89117c7237fb2a001acdf01643990e43</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_udg_equipament_u_necessitat</sys_name>

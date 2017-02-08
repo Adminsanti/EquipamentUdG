@@ -59,7 +59,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adminsanti</sys_created_by>
             <sys_created_on>2016-12-23 12:42:29</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5925b0f237fb2a001acdf01643990e91</sys_id>

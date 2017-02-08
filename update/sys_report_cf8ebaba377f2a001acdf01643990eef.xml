@@ -84,7 +84,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2016-12-23 22:42:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>cf8ebaba377f2a001acdf01643990eef</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Totes les necessitats agrupades per vinculació</sys_name>
