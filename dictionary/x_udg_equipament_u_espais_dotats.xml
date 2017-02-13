@@ -4,7 +4,11 @@
         <element label="Edifici" max_length="30" name="edifici" type="string"/>
         <element display="true" label="Nom" max_length="50" name="nom" type="string"/>
         <element label="Nombre equips" max_length="40" name="nombre_equips" type="integer"/>
-        <element label="Tipus" max_length="30" name="tipus" type="string"/>
+        <element choice="3" default="Aula informàtica" label="Tipus" max_length="30" name="tipus" type="string">
+            <choice>
+                <element label="Aula informàtica" sequence="0" value="Aula informàtica"/>
+            </choice>
+        </element>
         <element label="Vinculacio" max_length="32" name="vinculacio" reference="u_udgvinculacions" type="reference"/>
         <index name="index">
             <element name="vinculacio"/>
