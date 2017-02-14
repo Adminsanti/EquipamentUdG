@@ -6,6 +6,7 @@
         <element label="Mida monitor 2" max_length="40" name="mida_monitor_2" type="integer"/>
         <element label="Model monitor 1" max_length="32" name="model_monitor_1" reference="cmdb_hardware_product_model" type="reference"/>
         <element label="Model monitor 2" max_length="32" name="model_monitor_2" reference="cmdb_hardware_product_model" type="reference"/>
+        <element label="Work Notes" max_length="4000" name="u_journal_1" type="journal"/>
         <index name="index">
             <element name="model_monitor_1"/>
         </index>
