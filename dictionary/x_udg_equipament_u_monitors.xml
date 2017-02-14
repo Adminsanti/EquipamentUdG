@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Monitors" max_length="40" name="x_udg_equipament_u_monitors" type="collection">
+        <element label="Asset" max_length="32" name="asset" reference="alm_asset" type="reference"/>
+        <element label="Mida monitor 1" max_length="40" name="mida_monitor_1" type="integer"/>
+        <element label="Mida monitor 2" max_length="40" name="mida_monitor_2" type="integer"/>
+        <element label="Model monitor 1" max_length="32" name="model_monitor_1" reference="cmdb_hardware_product_model" type="reference"/>
+        <element label="Model monitor 2" max_length="32" name="model_monitor_2" reference="cmdb_hardware_product_model" type="reference"/>
+        <index name="index">
+            <element name="model_monitor_1"/>
+        </index>
+        <index name="index2">
+            <element name="model_monitor_2"/>
+        </index>
+        <index name="index3">
+            <element name="asset"/>
+        </index>
+    </element>
+</database>
