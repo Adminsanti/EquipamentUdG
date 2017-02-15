@@ -71,6 +71,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>u3000070</sys_created_by>
+            <sys_created_on>2017-02-15 11:21:25</sys_created_on>
+            <sys_id>5c78ee44dbcd72809fd1f57eaf96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_espais_dotats" sys_domain="global" view="Default view">a1747927dbf072809fd1f57eaf9619a4</sys_ui_section>
+            <sys_updated_by>u3000070</sys_updated_by>
+            <sys_updated_on>2017-02-15 11:21:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

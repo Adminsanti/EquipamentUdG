@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Espais Dotats" max_length="40" name="x_udg_equipament_u_espais_dotats" type="collection">
+        <element default="True" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Nom" max_length="40" name="adreca" type="string"/>
         <element label="Equip" max_length="32" name="equip" reference="alm_asset" type="reference"/>
         <element label="Localitzacio" max_length="32" name="localitzacio" reference="cmn_location" type="reference"/>
