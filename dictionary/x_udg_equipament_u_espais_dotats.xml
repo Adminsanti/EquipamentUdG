@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Espais Dotats" max_length="40" name="x_udg_equipament_u_espais_dotats" type="collection">
-        <element label="Adreça" max_length="120" name="adreca" type="string"/>
-        <element label="Edifici" max_length="30" name="edifici" type="string"/>
+        <element label="Nom" max_length="40" name="adreca" type="string"/>
         <element label="Equip" max_length="32" name="equip" reference="alm_asset" type="reference"/>
-        <element display="true" label="Nom" max_length="50" name="nom" type="string"/>
+        <element label="Localitzacio" max_length="32" name="localitzacio" reference="cmn_location" type="reference"/>
         <element label="Nombre equips" max_length="40" name="nombre_equips" type="integer"/>
         <element choice="3" default="Aula informàtica" label="Tipus" max_length="30" name="tipus" type="string">
             <choice>
@@ -16,6 +15,9 @@
             <element name="equip"/>
         </index>
         <index name="index2">
+            <element name="localitzacio"/>
+        </index>
+        <index name="index3">
             <element name="vinculacio"/>
         </index>
     </element>
