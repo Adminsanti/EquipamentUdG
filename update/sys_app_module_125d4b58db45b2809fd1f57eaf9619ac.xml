@@ -29,8 +29,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>125d4b58db45b2809fd1f57eaf9619ac</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Aula informaticas</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Aules informàtiques</sys_name>
         <sys_overrides/>
         <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
         <sys_policy/>
@@ -38,9 +38,9 @@
         <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
         <sys_update_name>sys_app_module_125d4b58db45b2809fd1f57eaf9619ac</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-02-16 08:41:51</sys_updated_on>
+        <sys_updated_on>2017-02-16 10:39:24</sys_updated_on>
         <timeline_page/>
-        <title>Aula informaticas</title>
+        <title>Aules informàtiques</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
