@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_udg_equipament_u_aula" label="Aula informatica" max_length="40" name="x_udg_equipament_u_aula_informatica" type="collection"/>
+</database>
