@@ -5,13 +5,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>e312ab50db85b2809fd1f57eaf961977</sys_id>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>5c13a390db85b2809fd1f57eaf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>nom_espai</element>
             <position>1</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>6712ab50db85b2809fd1f57eaf961977</sys_id>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>dc13a390db85b2809fd1f57eaf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,69 +33,69 @@
             <element>vinculacio</element>
             <position>2</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>e712ab50db85b2809fd1f57eaf961977</sys_id>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>5013a390db85b2809fd1f57eaf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>location</element>
-            <position>3</position>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>6b12ab50db85b2809fd1f57eaf961977</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>eb12ab50db85b2809fd1f57eaf961977</sys_id>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>d013a390db85b2809fd1f57eaf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>install_status</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>6f12ab50db85b2809fd1f57eaf961977</sys_id>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>5413a390db85b2809fd1f57eaf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 10:11:53</sys_created_on>
-            <sys_id>ef12ab50db85b2809fd1f57eaf961977</sys_id>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>d413a390db85b2809fd1f57eaf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 10:11:53</sys_updated_on>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>6</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-02-16 10:16:01</sys_created_on>
+            <sys_id>5813a390db85b2809fd1f57eaf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_aula_informatica" sys_domain="global" view="Default view">b9cdcb58db45b2809fd1f57eaf961957</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-02-16 10:16:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
