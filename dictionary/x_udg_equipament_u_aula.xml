@@ -2,6 +2,7 @@
 <database>
     <element extends="cmdb_ci" label="Aula" max_length="40" name="x_udg_equipament_u_aula" type="collection">
         <element label="Monitor Model" max_length="32" name="monitor_model" reference="cmdb_model" type="reference"/>
+        <element label="Nom espai" max_length="40" name="nom_espai" type="string"/>
         <element label="Vinculacio" max_length="32" name="vinculacio" reference="u_udgvinculacions" type="reference"/>
         <index name="index">
             <element name="monitor_model"/>
