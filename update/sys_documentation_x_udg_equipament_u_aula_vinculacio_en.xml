@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="vinculacio" label="Vinculacio" language="en" table="x_udg_equipament_u_aula">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vinculacio</element>
+            <help/>
+            <hint/>
+            <label>Vinculacio</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_aula</name>
+            <plural>Vinculacios</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-02-16 08:46:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3d7e4b58db45b2809fd1f57eaf96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vinculacio</sys_name>
+            <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
+            <sys_update_name>sys_documentation_x_udg_equipament_u_aula_vinculacio_en</sys_update_name>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-02-16 08:46:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

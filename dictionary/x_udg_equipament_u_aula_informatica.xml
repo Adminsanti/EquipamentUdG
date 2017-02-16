@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_udg_equipament_u_aula" label="Aula informatica" max_length="40" name="x_udg_equipament_u_aula_informatica" type="collection"/>
+    <element extends="x_udg_equipament_u_aula" label="Aula informatica" max_length="40" name="x_udg_equipament_u_aula_informatica" type="collection">
+        <element label="CPU" max_length="10" name="cpu" type="string"/>
+        <element label="Memoria" max_length="6" name="memoria" type="string"/>
+        <element label="Quantitat" max_length="40" name="quantitat" type="integer"/>
+    </element>
 </database>

@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="cmdb_ci" label="Aula" max_length="40" name="x_udg_equipament_u_aula" type="collection"/>
+    <element extends="cmdb_ci" label="Aula" max_length="40" name="x_udg_equipament_u_aula" type="collection">
+        <element label="Monitor Model" max_length="32" name="monitor_model" reference="cmdb_model" type="reference"/>
+        <element label="Vinculacio" max_length="32" name="vinculacio" reference="u_udgvinculacions" type="reference"/>
+        <index name="index">
+            <element name="monitor_model"/>
+        </index>
+        <index name="index2">
+            <element name="vinculacio"/>
+        </index>
+    </element>
 </database>
