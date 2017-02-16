@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" label="Necessitat" max_length="40" name="x_udg_equipament_u_necessitat" type="collection">
-        <element default="True" label="Active" max_length="40" name="active" type="boolean"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Coberta per" max_length="32" name="coberta_per" reference="alm_asset" type="reference"/>
         <element label="Justificacio" max_length="300" name="justificacio" type="string"/>
         <element label="Order" max_length="40" name="order" type="integer"/>
@@ -19,6 +19,7 @@
                 <element label="Ordinador portàtil estàndard" sequence="1" value="Ordinador portàtil estàndard"/>
                 <element label="Ordinador portàtil ultralleuger" sequence="2" value="Ordinador portàtil ultralleuger"/>
                 <element label="Ordinador altes prestacions" sequence="3" value="Ordinador altes prestacions"/>
+                <element label="Ordinador suport audiovisual" sequence="4" value="Ordinador suport audiovisual"/>
             </choice>
         </element>
         <element label="Vinculacio" max_length="32" name="vinculacio" reference="u_udgvinculacions" type="reference"/>
