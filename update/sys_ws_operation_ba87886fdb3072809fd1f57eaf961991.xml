@@ -12,13 +12,14 @@
 	var body ={};
 	
 	body.html = "<table>";
-	body.html = body.html+ "<tr><td>Aula</td><td>Adreça</td></tr>";
+	body.html = body.html+ "<tr><td>Centre</td><td>Aula</td><td>Adreça</td></tr>";
 	var gr = new GlideRecord('x_udg_equipament_u_aula_informatica');
+	gr.orderBy("vinculacio");
 	//gr.Tipus='aula informàtica';
 	gr.query();
 	while (gr.next()) {
 	body.html = body.html+ "<tr>";
-    body.html = body.html+ "<td>" + gr.name + "</td><td>"+ gr.location.street  +"</td>"; 
+    body.html = body.html+ "<td>" + gr.vinculacio.u_descripcio + "</td><td>"+ gr.nom_espai + "</td><td>"+ gr.location.name + "<br>"+ gr.location.street  +"</td>"; 
 	body.html = body.html+ "</tr>";
 }
 
@@ -40,7 +41,7 @@
         <sys_created_on>2017-02-13 10:27:14</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>ba87886fdb3072809fd1f57eaf961991</sys_id>
-        <sys_mod_count>36</sys_mod_count>
+        <sys_mod_count>41</sys_mod_count>
         <sys_name>aulesinfpublic</sys_name>
         <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
         <sys_policy/>
@@ -48,7 +49,7 @@
         <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
         <sys_update_name>sys_ws_operation_ba87886fdb3072809fd1f57eaf961991</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-02-17 12:59:41</sys_updated_on>
+        <sys_updated_on>2017-02-20 11:25:20</sys_updated_on>
         <web_service_definition display_value="UdGlaMeva">1167442fdb3072809fd1f57eaf9619c9</web_service_definition>
         <web_service_version/>
     </sys_ws_operation>
