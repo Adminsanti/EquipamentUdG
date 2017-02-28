@@ -22,14 +22,14 @@
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2016-12-23 12:24:41</sys_created_on>
         <sys_id>5811f07237fb2a001acdf01643990eea</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>59</sys_mod_count>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-02-28 11:39:53</sys_updated_on>
+        <sys_updated_on>2017-02-28 11:41:56</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_udg_equipament_u.user" name="x_udg_equipament_u.user">54117c7237fb2a001acdf01643990e3b</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.29</version>
+        <version>1.0.30</version>
     </sys_app>
 </record_update>
