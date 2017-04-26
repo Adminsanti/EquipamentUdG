@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Import Monitors" max_length="40" name="x_udg_equipament_u_import_monitors" type="collection">
+        <element attributes="import_attribute_name=Asset,edge_encryption_enabled=true" label="Asset" max_length="65" name="u_asset" type="string"/>
+        <element attributes="import_attribute_name=Mida monitor 1" label="Mida monitor 1" max_length="40" name="u_mida_monitor_1" type="integer"/>
+        <element attributes="import_attribute_name=Mida monitor 2" label="Mida monitor 2" max_length="40" name="u_mida_monitor_2" type="integer"/>
+        <element attributes="import_attribute_name=Model monitor 1,edge_encryption_enabled=true" label="Model monitor 1" max_length="40" name="u_model_monitor_1" type="string"/>
+        <element attributes="import_attribute_name=Model monitor 2,edge_encryption_enabled=true" label="Model monitor 2" max_length="40" name="u_model_monitor_2" type="string"/>
+    </element>
+</database>
