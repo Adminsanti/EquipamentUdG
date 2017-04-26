@@ -12,12 +12,10 @@
         <element label="Obsolet" max_length="40" name="obsolet" type="boolean"/>
         <element label="Order" max_length="40" name="order" type="integer"/>
         <element label="Persona" max_length="40" name="persona" type="boolean"/>
-        <element choice="3" label="Renovi" max_length="40" name="renovi" type="string">
+        <element choice="3" default="Renovar" label="Renovi" max_length="40" name="renovi" type="string">
             <choice>
-                <element label="No persona - No Obsolet" value="No persona - No Obsolet"/>
-                <element label="No persona - Obsolet" value="No persona - Obsolet"/>
-                <element label="Persona - No Obsolet" value="Persona - No Obsolet"/>
-                <element label="Renovar" value="Renovar"/>
+                <element label="Renovar" sequence="0" value="Renovar"/>
+                <element label="No renovar" sequence="1" value="No renovar"/>
             </choice>
         </element>
         <element choice="3" default="Consolidada" label="Tipus necessitat" max_length="40" name="tipus" type="string">
