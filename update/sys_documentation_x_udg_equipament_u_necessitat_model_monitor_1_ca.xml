@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="model_monitor_1" label="Model Monitor 1" language="ca" table="x_udg_equipament_u_necessitat">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>model_monitor_1</element>
+            <help/>
+            <hint/>
+            <label>Model Monitor 1</label>
+            <language>ca</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <plural>Model Monitor 1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:23:49</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>5cbe7ddadbd276009fd1f57eaf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Model Monitor 1</sys_name>
+            <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
+            <sys_update_name>sys_documentation_x_udg_equipament_u_necessitat_model_monitor_1_ca</sys_update_name>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:23:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

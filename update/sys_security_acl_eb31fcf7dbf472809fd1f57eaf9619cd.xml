@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-02-14 08:02:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>eb31fcf7dbf472809fd1f57eaf9619cd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_udg_equipament_u_monitors</sys_name>

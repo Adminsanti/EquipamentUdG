@@ -4,21 +4,37 @@
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Coberta per" max_length="32" name="coberta_per" reference="alm_asset" type="reference"/>
         <element label="Justificacio" max_length="300" name="justificacio" type="string"/>
+        <element label="Mida futur monitor 2" max_length="40" name="mida_futur_monitor_2" type="integer"/>
+        <element label="Mida Monitor 1" max_length="40" name="mida_monitor_1" type="integer"/>
+        <element label="Mida Monitor 2" max_length="40" name="mida_monitor_2" type="integer"/>
+        <element label="Model Monitor 1" max_length="32" name="model_monitor_1" reference="cmdb_hardware_product_model" type="reference"/>
+        <element label="Model Monitor 2" max_length="32" name="model_monitor_2" reference="cmdb_hardware_product_model" type="reference"/>
+        <element label="Obsolet" max_length="40" name="obsolet" type="boolean"/>
         <element label="Order" max_length="40" name="order" type="integer"/>
-        <element choice="3" default="Proveint" label="Tipus necessitat" mandatory="true" max_length="40" name="tipus" type="string">
+        <element label="Persona" max_length="40" name="persona" type="boolean"/>
+        <element choice="3" label="Renovi" max_length="40" name="renovi" type="string">
             <choice>
-                <element label="Proveint" sequence="0" value="Proveint"/>
-                <element label="Consolidada" sequence="1" value="Consolidada"/>
+                <element label="No persona - No Obsolet" value="No persona - No Obsolet"/>
+                <element label="No persona - Obsolet" value="No persona - Obsolet"/>
+                <element label="Persona - No Obsolet" value="Persona - No Obsolet"/>
+                <element label="Renovar" value="Renovar"/>
+            </choice>
+        </element>
+        <element choice="3" default="Consolidada" label="Tipus necessitat" max_length="40" name="tipus" type="string">
+            <choice>
+                <element label="Consolidada" sequence="0" value="Consolidada"/>
+                <element label="Investigant" sequence="1" value="Investigant"/>
                 <element label="Temporal" sequence="2" value="Temporal"/>
-                <element label="Investigant" sequence="3" value="Investigant"/>
+                <element label="Proveint" sequence="3" value="Proveint"/>
+                <element label="Magatzem" sequence="4" value="Magatzem"/>
+                <element label="Perdut" sequence="5" value="Perdut"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="Ordinador sobretaula" label="Tipus recurs" max_length="40" name="u_string_1" type="string">
             <choice>
                 <element label="Ordinador sobretaula" sequence="0" value="Ordinador sobretaula"/>
                 <element label="Ordinador portàtil estàndard" sequence="1" value="Ordinador portàtil estàndard"/>
-                <element label="Ordinador portàtil ultralleuger" sequence="2" value="Ordinador portàtil ultralleuger"/>
-                <element label="Ordinador altes prestacions" sequence="3" value="Ordinador altes prestacions"/>
+                <element label="Ordinador especial" sequence="3" value="Ordinador especial"/>
                 <element label="Ordinador suport audiovisual" sequence="4" value="Ordinador suport audiovisual"/>
             </choice>
         </element>
@@ -28,9 +44,15 @@
             <element name="coberta_per"/>
         </index>
         <index name="index2">
-            <element name="vinculacio"/>
+            <element name="model_monitor_1"/>
         </index>
         <index name="index3">
+            <element name="model_monitor_2"/>
+        </index>
+        <index name="index4">
+            <element name="vinculacio"/>
+        </index>
+        <index name="index5">
             <element name="order"/>
         </index>
     </element>

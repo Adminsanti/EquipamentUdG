@@ -15,7 +15,7 @@
         <mobile_title>Monitors</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_udg_equipament_u_monitors</name>
-        <order/>
+        <order>1100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2b31fcf7dbf472809fd1f57eaf9619c7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Monitors</sys_name>
         <sys_overrides/>
         <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
         <sys_update_name>sys_app_module_2b31fcf7dbf472809fd1f57eaf9619c7</sys_update_name>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-02-14 08:02:08</sys_updated_on>
+        <sys_updated_on>2017-02-16 09:48:31</sys_updated_on>
         <timeline_page/>
         <title>Monitors</title>
         <uncancelable>false</uncancelable>

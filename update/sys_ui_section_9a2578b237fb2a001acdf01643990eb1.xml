@@ -5,13 +5,13 @@
             <element>tipus</element>
             <position>0</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>2550cbfa377f2a001acdf01643990ec2</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f1e0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>vinculacio</element>
             <position>1</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>a550cbfa377f2a001acdf01643990ec2</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>75e0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>coberta_per</element>
             <position>2</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>2950cbfa377f2a001acdf01643990ec2</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f5e0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>u_string_1</element>
             <position>3</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>a950cbfa377f2a001acdf01643990ec2</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>79e0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>2d50cbfa377f2a001acdf01643990ec2</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f9e0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>order</element>
             <position>5</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>ad50cbfa377f2a001acdf01643990ec2</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>7de0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>sys_updated_on</element>
             <position>6</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>2150cbfa377f2a001acdf01643990ec3</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>fde0865edbd276009fd1f57eaf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>sys_updated_by</element>
             <position>7</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>a150cbfa377f2a001acdf01643990ec3</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>71e0865edbd276009fd1f57eaf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>2550cbfa377f2a001acdf01643990ec3</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f1e0865edbd276009fd1f57eaf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -131,27 +131,167 @@
             <element>justificacio</element>
             <position>9</position>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 22:50:37</sys_created_on>
-            <sys_id>a550cbfa377f2a001acdf01643990ec3</sys_id>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>75e0865edbd276009fd1f57eaf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 22:50:37</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>10</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f5e0865edbd276009fd1f57eaf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>persona</element>
+            <position>11</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>79e0865edbd276009fd1f57eaf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>obsolet</element>
+            <position>12</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f9e0865edbd276009fd1f57eaf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mida_monitor_1</element>
+            <position>13</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>7de0865edbd276009fd1f57eaf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mida_monitor_2</element>
+            <position>14</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>fde0865edbd276009fd1f57eaf9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mida_futur_monitor_2</element>
+            <position>15</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>71e0865edbd276009fd1f57eaf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>16</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f1e0865edbd276009fd1f57eaf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>renovi</element>
+            <position>17</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>75e0865edbd276009fd1f57eaf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>10</position>
-            <sys_created_by>u3000070</sys_created_by>
-            <sys_created_on>2017-02-15 11:22:08</sys_created_on>
-            <sys_id>f2986684dbcd72809fd1f57eaf961962</sys_id>
+            <position>18</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f5e0865edbd276009fd1f57eaf9619e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
-            <sys_updated_by>u3000070</sys_updated_by>
-            <sys_updated_on>2017-02-15 11:22:08</sys_updated_on>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_monitor_1</element>
+            <position>19</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>79e0865edbd276009fd1f57eaf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_monitor_2</element>
+            <position>20</position>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-04-25 11:33:28</sys_created_on>
+            <sys_id>f9e0865edbd276009fd1f57eaf9619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_udg_equipament_u_necessitat" sys_domain="global" view="Default view">9a2578b237fb2a001acdf01643990eb1</sys_ui_section>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -167,7 +307,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9a2578b237fb2a001acdf01643990eb1</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>11</sys_mod_count>
             <sys_name>x_udg_equipament_u_necessitat</sys_name>
             <sys_overrides/>
             <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
@@ -175,8 +315,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
             <sys_update_name>sys_ui_section_9a2578b237fb2a001acdf01643990eb1</sys_update_name>
-            <sys_updated_by>u3000070</sys_updated_by>
-            <sys_updated_on>2017-02-15 11:22:08</sys_updated_on>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:33:28</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

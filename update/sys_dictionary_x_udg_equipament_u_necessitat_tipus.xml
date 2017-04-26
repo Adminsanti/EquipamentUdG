@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="tipus" table="x_udg_equipament_u_necessitat">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -17,7 +18,7 @@
         <column_label>Tipus necessitat</column_label>
         <comments/>
         <create_roles/>
-        <default_value>Proveint</default_value>
+        <default_value>Consolidada</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -31,7 +32,7 @@
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_udg_equipament_u_necessitat</name>
         <next_element/>
@@ -51,17 +52,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2016-12-23 12:44:27</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>7d88804637f87a401acdf01643990eb4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6a5acf724fff2a00a4e350528110c7f9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Tipus necessitat</sys_name>
         <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
         <sys_update_name>sys_dictionary_x_udg_equipament_u_necessitat_tipus</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-02-08 18:34:56</sys_updated_on>
+        <sys_updated_by>adminsanti</sys_updated_by>
+        <sys_updated_on>2017-01-18 08:24:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -10,14 +10,14 @@
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
             <sequence>0</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-01-11 17:13:10</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-01-11 17:14:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2f49e330db1cb2409fd1f57eaf9619b5</sys_id>
+            <sys_id>61b923f44f503240a4e350528110c736</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-01-11 17:13:10</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-01-11 17:14:55</sys_updated_on>
             <value>Ordinador sobretaula</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,14 +29,14 @@
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
             <sequence>1</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-01-11 17:13:10</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-01-11 17:14:55</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e349e330db1cb2409fd1f57eaf9619b6</sys_id>
+            <sys_id>a5b923f44f503240a4e350528110c736</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-01-11 17:13:10</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-01-11 17:14:55</sys_updated_on>
             <value>Ordinador portàtil estàndard</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,38 +44,19 @@
             <element>u_string_1</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Ordinador portàtil ultralleuger</label>
-            <language>en</language>
-            <name>x_udg_equipament_u_necessitat</name>
-            <sequence>2</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-01-18 08:49:43</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c5397907db9876409fd1f57eaf961973</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-01-18 08:49:43</sys_updated_on>
-            <value>Ordinador portàtil ultralleuger</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_string_1</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Ordinador altes prestacions</label>
+            <label>Ordinador especial</label>
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
             <sequence>3</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-01-20 08:07:13</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-01-20 09:23:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>46a2c0ffdbd4b6409fd1f57eaf9619fd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>1a24dc7b4f94f240a4e350528110c763</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-01-20 08:07:13</sys_updated_on>
-            <value>Ordinador altes prestacions</value>
+            <sys_updated_on>2017-04-24 15:17:47</sys_updated_on>
+            <value>Ordinador especial</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -86,25 +67,25 @@
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
             <sequence>4</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-02-16 09:10:08</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-02-16 09:38:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c7f3971cdb45b2809fd1f57eaf96195d</sys_id>
+            <sys_id>f27a9bd44f8d7e40a4e350528110c71b</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 09:10:08</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-02-16 09:38:31</sys_updated_on>
             <value>Ordinador suport audiovisual</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_string_1</element>
             <name>x_udg_equipament_u_necessitat</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-01-11 17:13:10</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-01-11 17:14:55</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>fe88c04637f87a401acdf01643990e14</sys_id>
-            <sys_mod_count>4</sys_mod_count>
+            <sys_id>65b923f44f503240a4e350528110c736</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>u_string_1</sys_name>
             <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
             <sys_policy/>
@@ -112,7 +93,7 @@
             <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
             <sys_update_name>sys_choice_x_udg_equipament_u_necessitat_u_string_1</sys_update_name>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-02-16 09:10:08</sys_updated_on>
+            <sys_updated_on>2017-04-25 11:26:25</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

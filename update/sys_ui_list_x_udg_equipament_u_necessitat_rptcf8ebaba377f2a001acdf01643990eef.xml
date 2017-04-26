@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>coberta_per</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="478ebaba377f2a001acdf01643990ef0">b4018ffa377f2a001acdf01643990ed2</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="7c6a03b24fff2a00a4e350528110c7f1">b4018ffa377f2a001acdf01643990ed2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>justificacio</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="478ebaba377f2a001acdf01643990ef0">b4018ffa377f2a001acdf01643990ed2</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="7c6a03b24fff2a00a4e350528110c7f1">b4018ffa377f2a001acdf01643990ed2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>tipus</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="478ebaba377f2a001acdf01643990ef0">b4018ffa377f2a001acdf01643990ed2</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="7c6a03b24fff2a00a4e350528110c7f1">b4018ffa377f2a001acdf01643990ed2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +49,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_string_1</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="478ebaba377f2a001acdf01643990ef0">b4018ffa377f2a001acdf01643990ed2</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="7c6a03b24fff2a00a4e350528110c7f1">b4018ffa377f2a001acdf01643990ed2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -64,7 +64,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vinculacio</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="478ebaba377f2a001acdf01643990ef0">b4018ffa377f2a001acdf01643990ed2</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="7c6a03b24fff2a00a4e350528110c7f1">b4018ffa377f2a001acdf01643990ed2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -103,7 +103,7 @@
             <sys_updated_by>adminsanti</sys_updated_by>
             <sys_updated_on>2016-12-23 22:53:35</sys_updated_on>
             <sys_user/>
-            <view display_value="Rptcf8ebaba377f2a001acdf01643990eef" name="RPTcf8ebaba377f2a001acdf01643990eef">478ebaba377f2a001acdf01643990ef0</view>
+            <view display_value="Rptcf8ebaba377f2a001acdf01643990eef" name="RPTcf8ebaba377f2a001acdf01643990eef">7c6a03b24fff2a00a4e350528110c7f1</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

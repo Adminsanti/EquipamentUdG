@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Import Necessitats" max_length="40" name="x_udg_equipament_u_import_necessitats" type="collection">
+        <element attributes="import_attribute_name=Adscrit Renovi?,edge_encryption_enabled=true" label="Adscrit Renovi?" max_length="40" name="u_adscrit_renovi_" type="string"/>
+        <element attributes="import_attribute_name=Camí,edge_encryption_enabled=true" label="Camí" max_length="40" name="u_camí" type="string"/>
+        <element attributes="import_attribute_name=FiGarantiaHP" label="FiGarantiaHP" max_length="40" name="u_figarantiahp" type="glide_date"/>
+        <element attributes="import_attribute_name=Idaut" label="Idaut" max_length="40" name="u_idaut" type="integer"/>
+        <element attributes="import_attribute_name=idusuari,edge_encryption_enabled=true" label="idusuari" max_length="40" name="u_idusuari" type="string"/>
+        <element attributes="import_attribute_name=InGarantiaHP" label="InGarantiaHP" max_length="40" name="u_ingarantiahp" type="glide_date"/>
+        <element attributes="import_attribute_name=Justificació,edge_encryption_enabled=true" label="Justificació" max_length="105" name="u_justificació" type="string"/>
+        <element attributes="import_attribute_name=last logon,edge_encryption_enabled=true" label="last logon" max_length="40" name="u_last_logon" type="string"/>
+        <element attributes="import_attribute_name=Model_l,edge_encryption_enabled=true" label="Model_l" max_length="40" name="u_model_l" type="string"/>
+        <element attributes="import_attribute_name=Nom1,edge_encryption_enabled=true" label="Nom1" max_length="40" name="u_nom1" type="string"/>
+        <element attributes="import_attribute_name=NomCognoms,edge_encryption_enabled=true" label="NomCognoms" max_length="40" name="u_nomcognoms" type="string"/>
+        <element attributes="import_attribute_name=Observacions,edge_encryption_enabled=true" label="Observacions" max_length="105" name="u_observacions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="QID" max_length="40" name="u_qid" type="string"/>
+        <element attributes="import_attribute_name=Serial,edge_encryption_enabled=true" label="Serial" max_length="40" name="u_serial" type="string"/>
+        <element attributes="import_attribute_name=Tipus d'element,edge_encryption_enabled=true" label="Tipus d'element" max_length="40" name="u_tipus_d_element" type="string"/>
+        <element attributes="import_attribute_name=unitats,edge_encryption_enabled=true" label="unitats" max_length="50" name="u_unitats" type="string"/>
+    </element>
+</database>

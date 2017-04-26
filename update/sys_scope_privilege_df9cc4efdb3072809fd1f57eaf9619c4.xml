@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-13 10:43:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>df9cc4efdb3072809fd1f57eaf9619c4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>RESTAPIResponse</sys_name>

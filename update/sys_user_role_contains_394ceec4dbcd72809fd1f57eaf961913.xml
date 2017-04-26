@@ -6,7 +6,7 @@
         <sys_class_name>sys_user_role_contains</sys_class_name>
         <sys_created_by>u3000070</sys_created_by>
         <sys_created_on>2017-02-15 11:38:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>394ceec4dbcd72809fd1f57eaf961913</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>snc_internal.x_udg_equipament_u.user</sys_name>

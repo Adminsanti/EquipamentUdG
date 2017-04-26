@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Inversa CI Asset Necessitat" language="en" table="x_udg_equipament_u_inversaciassetnecessitat">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Inversa CI Asset Necessitat</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_inversaciassetnecessitat</name>
+            <plural>Inversa CI Asset Necessitats</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>u3000046</sys_created_by>
+            <sys_created_on>2017-02-07 09:49:44</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>97b649e5dbbcbe405376f57eaf961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inversa CI Asset Necessitat</sys_name>
+            <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
+            <sys_update_name>sys_documentation_x_udg_equipament_u_inversaciassetnecessitat__en</sys_update_name>
+            <sys_updated_by>u3000046</sys_updated_by>
+            <sys_updated_on>2017-02-07 09:49:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

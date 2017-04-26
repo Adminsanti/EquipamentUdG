@@ -4,47 +4,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>coberta_per</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5925b0f237fb2a001acdf01643990e91</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 12:42:29</sys_created_on>
-            <sys_id>9d25b0f237fb2a001acdf01643990e91</sys_id>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>0e513600dbc9b2805376f57eaf9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 12:42:29</sys_updated_on>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>justificacio</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5925b0f237fb2a001acdf01643990e91</list_id>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 12:42:29</sys_created_on>
-            <sys_id>1125b0f237fb2a001acdf01643990e92</sys_id>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>8e513600dbc9b2805376f57eaf9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 12:42:29</sys_updated_on>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>vinculacio</element>
-            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5925b0f237fb2a001acdf01643990e91</list_id>
+            <element>order</element>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 12:42:29</sys_created_on>
-            <sys_id>9125b0f237fb2a001acdf01643990e92</sys_id>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>02513600dbc9b2805376f57eaf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 12:42:29</sys_updated_on>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tipus</element>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>82513600dbc9b2805376f57eaf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_string_1</element>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>06513600dbc9b2805376f57eaf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>vinculacio</element>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>86513600dbc9b2805376f57eaf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_notes</element>
+            <list_id display_value="x_udg_equipament_u_necessitat" element="NULL" name="x_udg_equipament_u_necessitat" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0a513600dbc9b2805376f57eaf9619ad</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>adminsanti</sys_created_by>
+            <sys_created_on>2017-02-15 12:00:18</sys_created_on>
+            <sys_id>0a513600dbc9b2805376f57eaf9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>adminsanti</sys_updated_by>
+            <sys_updated_on>2017-02-15 12:00:18</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -58,11 +118,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2016-12-23 12:42:29</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-01-11 17:37:12</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5925b0f237fb2a001acdf01643990e91</sys_id>
+            <sys_id>f7ceeb384f503240a4e350528110c70f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_udg_equipament_u_necessitat</sys_name>
             <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
@@ -71,7 +131,7 @@
             <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
             <sys_update_name>sys_ui_list_x_udg_equipament_u_necessitat_null</sys_update_name>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 12:42:29</sys_updated_on>
+            <sys_updated_on>2017-01-11 17:37:12</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
