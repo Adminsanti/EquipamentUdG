@@ -14,6 +14,7 @@
         <element label="Obsolet" max_length="40" name="obsolet" type="boolean"/>
         <element label="Order" max_length="40" name="order" type="integer"/>
         <element label="Persona" max_length="40" name="persona" type="boolean"/>
+        <element label="Renovar Monitor 1" max_length="40" name="renovar_monitor_1" type="boolean"/>
         <element choice="3" default="Renovar" label="Renovi" max_length="40" name="renovi" type="string">
             <choice>
                 <element label="Renovar" sequence="0" value="Renovar"/>
