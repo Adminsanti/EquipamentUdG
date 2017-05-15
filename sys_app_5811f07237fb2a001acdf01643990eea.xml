@@ -16,21 +16,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_udg_equipament_u</source>
-        <store_correlation_id>REPOAPP0000024834</store_correlation_id>
+        <store_correlation_id>REPOAPP0000025348</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>u3000070</sys_created_by>
         <sys_created_on>2016-12-23 12:37:48</sys_created_on>
         <sys_id>5811f07237fb2a001acdf01643990eea</sys_id>
-        <sys_mod_count>122</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_updated_by>adminsanti</sys_updated_by>
-        <sys_updated_on>2017-05-11 16:26:48</sys_updated_on>
+        <sys_updated_on>2017-05-15 10:53:02</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.36</version>
+        <version>1.0.37</version>
     </sys_app>
 </record_update>

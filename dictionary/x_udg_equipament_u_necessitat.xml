@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" label="Necessitat" max_length="40" name="x_udg_equipament_u_necessitat" type="collection">
+        <element label="Acció Renovi" max_length="200" name="accio_renovi" type="string"/>
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element label="Addicional" max_length="40" name="addicional" type="boolean"/>
         <element label="Coberta per" max_length="32" name="coberta_per" reference="alm_asset" type="reference"/>
