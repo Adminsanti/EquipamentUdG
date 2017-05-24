@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="sys_updated_on" label="Updated" language="ca" table="x_udg_equipament_u_necessitat">
+    <sys_documentation element="" label="Necessitat" language="ca" table="x_udg_equipament_u_necessitat">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>sys_updated_on</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Updated</label>
+            <label>Necessitat</label>
             <language>ca</language>
             <name>x_udg_equipament_u_necessitat</name>
-            <plural/>
+            <plural>Necessitats</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-25 11:32:46</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>ebb0065edbd276009fd1f57eaf961959</sys_id>
+            <sys_created_on>2017-04-25 10:56:02</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>d158b19edbd6fa005376f57eaf9619f8</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name/>
-            <sys_package/>
+            <sys_name>Necessitat</sys_name>
+            <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
-            <sys_update_name/>
+            <sys_update_name>sys_documentation_x_udg_equipament_u_necessitat__ca</sys_update_name>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-25 11:32:46</sys_updated_on>
+            <sys_updated_on>2017-04-25 10:56:02</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

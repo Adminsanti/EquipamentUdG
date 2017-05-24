@@ -5,20 +5,58 @@
             <dependent_value/>
             <element>renovi</element>
             <hint/>
-            <inactive>true</inactive>
+            <inactive>false</inactive>
             <label>No persona - No Obsolet</label>
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
-            <sequence>0</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-25 11:29:09</sys_created_on>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-04-25 11:35:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e9df391edbd276009fd1f57eaf9619ec</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-26 08:44:27</sys_updated_on>
+            <sys_id>ea410616db1afa005376f57eaf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:35:11</sys_updated_on>
             <value>No persona - No Obsolet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renovi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No persona - Obsolet</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-04-25 11:35:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e410616db1afa005376f57eaf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:35:11</sys_updated_on>
+            <value>No persona - Obsolet</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>renovi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Persona - No Obsolet</label>
+            <language>en</language>
+            <name>x_udg_equipament_u_necessitat</name>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-04-25 11:35:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e410616db1afa005376f57eaf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:35:11</sys_updated_on>
+            <value>Persona - No Obsolet</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -28,35 +66,16 @@
             <label>Renovar</label>
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
-            <sequence>0</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-25 11:28:26</sys_created_on>
+            <sequence/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-04-25 11:35:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c28fb51edbd276009fd1f57eaf961956</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-26 08:44:27</sys_updated_on>
+            <sys_id>ae410616db1afa005376f57eaf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:35:11</sys_updated_on>
             <value>Renovar</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>renovi</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>No persona - Obsolet</label>
-            <language>en</language>
-            <name>x_udg_equipament_u_necessitat</name>
-            <sequence>1</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-25 11:28:49</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f7bf791edbd276009fd1f57eaf96194b</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-26 08:44:27</sys_updated_on>
-            <value>No persona - Obsolet</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -67,52 +86,33 @@
             <language>en</language>
             <name>x_udg_equipament_u_necessitat</name>
             <sequence>1</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-26 08:44:27</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-04-26 10:03:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>abc362e6db1e76009fd1f57eaf961954</sys_id>
+            <sys_id>c5f5bae2dbd63e005376f57eaf96190a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-26 08:44:27</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-04-26 10:03:45</sys_updated_on>
             <value>No renovar</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>renovi</element>
-            <hint/>
-            <inactive>true</inactive>
-            <label>Persona - No Obsolet</label>
-            <language>en</language>
-            <name>x_udg_equipament_u_necessitat</name>
-            <sequence>2</sequence>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-25 11:29:21</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>96efb11edbd276009fd1f57eaf961985</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-26 08:44:27</sys_updated_on>
-            <value>Persona - No Obsolet</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>renovi</element>
             <name>x_udg_equipament_u_necessitat</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>adminsanti</sys_created_by>
-            <sys_created_on>2017-04-25 11:28:26</sys_created_on>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-04-25 11:35:11</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>f7bf791edbd276009fd1f57eaf96193f</sys_id>
-            <sys_mod_count>9</sys_mod_count>
+            <sys_id>a2410616db1afa005376f57eaf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>renovi</sys_name>
             <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
             <sys_update_name>sys_choice_x_udg_equipament_u_necessitat_renovi</sys_update_name>
-            <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2017-04-26 08:44:27</sys_updated_on>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-04-25 11:35:11</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

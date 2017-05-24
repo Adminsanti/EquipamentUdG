@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>adminsanti</sys_created_by>
             <sys_created_on>2017-05-11 16:20:20</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>b7fb1d67dba632409fd1f57eaf96196d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Renovar Monitor 1</sys_name>
