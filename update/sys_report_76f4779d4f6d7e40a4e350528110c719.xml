@@ -82,7 +82,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>adminjuan</sys_created_by>
         <sys_created_on>2017-03-16 10:39:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>76f4779d4f6d7e40a4e350528110c719</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Combinada ordinadors monitors</sys_name>

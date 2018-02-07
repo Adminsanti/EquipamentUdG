@@ -36,7 +36,7 @@
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-04-26 08:45:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>41b266a6db1e76009fd1f57eaf9619e4</sys_id>

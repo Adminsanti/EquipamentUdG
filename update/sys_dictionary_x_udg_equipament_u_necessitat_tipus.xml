@@ -52,7 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2016-12-23 12:44:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6a5acf724fff2a00a4e350528110c7f9</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Tipus necessitat</sys_name>

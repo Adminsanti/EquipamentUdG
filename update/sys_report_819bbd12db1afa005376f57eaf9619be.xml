@@ -86,7 +86,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-04-25 11:10:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>819bbd12db1afa005376f57eaf9619be</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Necessiats serveis Pivot 2</sys_name>

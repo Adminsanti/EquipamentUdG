@@ -43,7 +43,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>adminsanti</sys_created_by>
         <sys_created_on>2017-02-16 09:41:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a31b1fd44f8d7e40a4e350528110c7e3</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>x_udg_equipament_u_espais_dotats.xlsx (U</sys_name>

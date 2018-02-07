@@ -349,7 +349,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>67a66ab2377f2a001acdf01643990e6c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_udg_equipament_u_import_necessitats</sys_name>
             <sys_overrides/>
             <sys_package display_value="Equipament UdG" source="x_udg_equipament_u">5811f07237fb2a001acdf01643990eea</sys_package>
@@ -358,7 +358,7 @@
             <sys_scope display_value="Equipament UdG">5811f07237fb2a001acdf01643990eea</sys_scope>
             <sys_update_name>sys_ui_section_67a66ab2377f2a001acdf01643990e6c</sys_update_name>
             <sys_updated_by>adminsanti</sys_updated_by>
-            <sys_updated_on>2016-12-23 20:58:31</sys_updated_on>
+            <sys_updated_on>2018-02-07 11:18:46</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

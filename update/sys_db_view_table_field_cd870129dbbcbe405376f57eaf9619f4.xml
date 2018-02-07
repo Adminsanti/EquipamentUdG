@@ -5,7 +5,7 @@
         <sys_class_name>sys_db_view_table_field</sys_class_name>
         <sys_created_by>u3000046</sys_created_by>
         <sys_created_on>2017-02-07 09:53:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>cd870129dbbcbe405376f57eaf9619f4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>coberta_per</sys_name>

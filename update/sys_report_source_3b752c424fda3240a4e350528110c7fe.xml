@@ -11,7 +11,7 @@
         <sys_class_name>sys_report_source</sys_class_name>
         <sys_created_by>adminjuan</sys_created_by>
         <sys_created_on>2017-04-24 10:16:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3b752c424fda3240a4e350528110c7fe</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>equips sobretaula consolidats (Necessitat)</sys_name>
